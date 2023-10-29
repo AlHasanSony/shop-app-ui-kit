@@ -26,6 +26,5 @@
   ```
   dart format .
   ```
-  
-![img_1.png](img_1.png)
 
+![screenshots](https://github.com/AlHasanSony/shop-app-ui-kit/assets/48161357/e020428d-d0ec-4855-bbee-fa59e11cf726)
